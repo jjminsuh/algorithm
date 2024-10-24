@@ -3,7 +3,12 @@
         "string": "cpp",
         "vector": "cpp",
         "deque": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "queue": "cpp",
+        "__locale": "cpp",
+        "string_view": "cpp",
+        "algorithm": "cpp",
+        "map": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
